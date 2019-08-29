@@ -1,0 +1,5 @@
+Matt Pilgrim 
+-Three Important Ethical Thoughts about Computer Engineering:
+  1) Making sure that you don't take any shortcuts in finishing a task so that nothing will get left out.
+  2) Being honest with your work and mistakes so that fixing the problem with peers is easier to handle.
+  3) Working as a team with your peers and asking questions if you need help with a particular assignment.
