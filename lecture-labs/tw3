@@ -9,26 +9,26 @@ Who are the users?
 What are the system requirements?
 What are the functional requirements.
 
-1. The stakeholders include:
+## 1. The stakeholders include:
 	Photographers
 	Editor
 	Journalists
 	Owners of Newspaper
 	
-2. The users include:
+## 2. The users include:
 	Editors
 	Journalists
 	Any writer for the newspaper
 	Owners of Newspaper
 	
-3. System requirements
+## 3. System requirements
 	Storage/Disk Space
 	Camera
 	Web interface
 	Photo editing interface
 	News story interface for writing
 	
-4. Function Requirements
+## 4. Function Requirements
 	Photographers
 		- Must be able to upload images to database (Specific sign-in that allows Photographer to upload the images)
 		- Able to access editing software (Use this to edit the photos that were uploaded)
