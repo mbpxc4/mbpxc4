@@ -1,0 +1,47 @@
+Matt Pilgrim and Henry Sills
+Tuesday Lab, Week 3
+
+In Pairs, solicit requirements from each other for a system that
+is used to manage photographic images for a newspaper.
+
+Who are the stakeholders?
+Who are the users?
+What are the system requirements?
+What are the functional requirements.
+
+1. The stakeholders include:
+	Photographers
+	Editor
+	Journalists
+	Owners of Newspaper
+	
+2. The users include:
+	Editors
+	Journalists
+	Any writer for the newspaper
+	Owners of Newspaper
+	
+3. System requirements
+	Storage/Disk Space
+	Camera
+	Web interface
+	Photo editing interface
+	News story interface for writing
+	
+4. Function Requirements
+	Photographers
+		- Must be able to upload images to database (Specific sign-in that allows Photographer to upload the images)
+		- Able to access editing software (Use this to edit the photos that were uploaded)
+	Editor
+		- Must be able to access database (specific sign-in that allows Editor to edit the photos from the Photographer)
+		- Able to download images
+		- Must be able to edit photos (can retrieve photos from the Photographer and edit them)
+		- Able to use editing software
+	Journalists
+		- Must be able to access database (be able to download the images in order to use for their story)
+		- Able to create content for images (must use a program that allows them to create news stories)
+			- (No way for the Journalists to edit the photos; just take the photos and insert into their story)
+	Owners of Newspaper
+		- Access images (allowed to download the stories but cannot edit them)
+		- Access softwares used in editing (able to access all of the softwares, but can't change any of the content)
+		- Not able to make changes to content (able to view the content before the story gets published)
