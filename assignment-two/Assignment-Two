@@ -1,0 +1,60 @@
+Assignment Two
+Matt Pilgrim
+14263758
+
+** Users of the Software
+Students
+TAs
+Instructors
+
+** User Requirements
+
+The Students need to be able to:
+	-View the current assignments (includes the Due Date and a Description)
+	-View or pull any documents that the Instructor or TA puts on the Software
+	-Submit documents on a specific assignment
+	-View grades on assignments as well as overall grade
+
+The TAs need to be able to:
+	-Access the assignments that Students submitted on the software
+	-Can view who submitted assignments late or didn't submit at all
+	-Publish grades on specific grading assignments along with comments
+	-Upload assignments and documents to the Students
+	-Access to certain group of Students if there is more than one TA
+
+The Instructors need to be able to:
+	-Access assignments that are submitted by the Students
+	-Can view who submitted assignments late or didn't submit at all
+	-Upload assignments and documents for Students to view
+	-Grade assignments and have access to the grades of all Students
+	-Access to the information of the students and the TAs
+	-Post announcements for the Students and the TAs to see
+	-Make corrections to grades and assginment details (due dates, point quantity, etc.)
+	-Generate quizzes and tests through the software (could include a time limit)
+
+** Constraints (Non-Functional Requirements)
+
+User-Friendly Interface
+	-Easy for users to nagivate around the software
+	-Easy for users to make corrections to what they upload on the software
+
+Privacy between Different Types of Users
+	-Students won't be able to access the grades of other students
+
+Performance and Reliability
+	-Software runs at a fast speed
+	-Well structured software that runs at all times
+		-Students won't have to worry about problems with turning in assignments
+
+Accessibility
+	-Students must be able to submit files of code from all platforms
+	-Program in the software itself where TAs and Instructors make comments or adjustments to the code
+
+** System Constraints and Requiremnents
+
+	-Enough memory for students to upload assignments
+	-Keep assignments submitted by students grouped together
+	-Software availible on multiple platforms (Smartphone, Computer, Tablet, etc.)
+	-Software connected to a server so all Users can communicate with each other
+	-To ensure privacy, have a user authentifaction login page
+	-Very secure software that makes it difficult for outside users to view information
